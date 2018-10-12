@@ -1,145 +1,136 @@
 {
   "categories": [
     {
-      "good": {
-        "id": "A",
-        "name": "good",
-        "moods": [
-          {
-            "id": "A01",
-            "name": "happy"
-          },
-          {
-            "id": "A02",
-            "name": "proud"
-          },
-          {
-            "id": "A03",
-            "name": "relaxed"
-          },
-          {
-            "id": "A04",
-            "name": "confident"
-          },
-          {
-            "id": "A05",
-            "name": "optimistic"
-          },
-          {
-            "id": "A06",
-            "name": "energetic"
-          },
-          {
-            "id": "A07",
-            "name": "motivated"
-          }
-        ]
-      }
+      "name": "good",
+      "id": "A",
+      "moods": [
+        {
+          "id": "A01",
+          "name": "happy"
+        },
+        {
+          "id": "A02",
+          "name": "proud"
+        },
+        {
+          "id": "A03",
+          "name": "relaxed"
+        },
+        {
+          "id": "A04",
+          "name": "confident"
+        },
+        {
+          "id": "A05",
+          "name": "optimistic"
+        },
+        {
+          "id": "A06",
+          "name": "energetic"
+        },
+        {
+          "id": "A07",
+          "name": "motivated"
+        }
+      ]
     },
     {
-      "angry": {
-        "id": "B",
-        "name": "angry",
-        "moods": [
-          {
-            "id": "B01",
-            "name": "angry"
-          },
-          {
-            "id": "B02",
-            "name": "aggressive"
-          },
-          {
-            "id": "B03",
-            "name": "frustrated"
-          },
-          {
-            "id": "B04",
-            "name": "out of control"
-          },
-          {
-            "id": "B05",
-            "name": "overwhelmed"
-          },
-          {
-            "id": "B06",
-            "name": "stressed"
-          }
-        ]
-      }
+      "name": "angry",
+      "id": "B",
+      "moods": [
+        {
+          "id": "B01",
+          "name": "angry"
+        },
+        {
+          "id": "B02",
+          "name": "aggressive"
+        },
+        {
+          "id": "B03",
+          "name": "frustrated"
+        },
+        {
+          "id": "B04",
+          "name": "out of control"
+        },
+        {
+          "id": "B05",
+          "name": "overwhelmed"
+        },
+        {
+          "id": "B06",
+          "name": "stressed"
+        }
+      ]
     },
     {
-      "bad": {
-        "id": "C",
-        "name": "bad",
-        "moods": [
-          {
-            "id": "C01",
-            "name": "bad"
-          },
-          {
-            "id": "C02",
-            "name": "scared"
-          },
-          {
-            "id": "C03",
-            "name": "sad"
-          },
-          {
-            "id": "C04",
-            "name": "insecure"
-          },
-          {
-            "id": "C05",
-            "name": "depressed"
-          },
-          {
-            "id": "C06",
-            "name": "lonely"
-          },
-          {
-            "id": "C07",
-            "name": "anxious"
-          }
-        ]
-      }
+      "name": "bad",
+      "id": "C",
+      "moods": [
+        {
+          "id": "C01",
+          "name": "bad"
+        },
+        {
+          "id": "C02",
+          "name": "scared"
+        },
+        {
+          "id": "C03",
+          "name": "sad"
+        },
+        {
+          "id": "C04",
+          "name": "insecure"
+        },
+        {
+          "id": "C05",
+          "name": "depressed"
+        },
+        {
+          "id": "C06",
+          "name": "lonely"
+        },
+        {
+          "id": "C07",
+          "name": "anxious"
+        }
+      ]
     },
     {
-      "neutral": {
-        "id": "D",
-        "name": "neutral",
-        "moods": [
-          {
-            "id": "D01",
-            "name": "neutral"
-          },
-          {
-            "id": "D02",
-            "name": "bored"
-          },
-          {
-            "id": "D03",
-            "name": "confused"
-          },
-          {
-            "id": "D04",
-            "name": "unfocused"
-          },
-          {
-            "id": "D05",
-            "name": "tired"
-          },
-          {
-            "id": "D06",
-            "name": "ok"
-          },
-          {
-            "id": "D07",
-            "name": "content"
-          }
-        ]
-      }
+      "name": "neutral",
+      "id": "D",
+      "moods": [
+        {
+          "id": "D01",
+          "name": "neutral"
+        },
+        {
+          "id": "D02",
+          "name": "bored"
+        },
+        {
+          "id": "D03",
+          "name": "confused"
+        },
+        {
+          "id": "D04",
+          "name": "unfocused"
+        },
+        {
+          "id": "D05",
+          "name": "tired"
+        },
+        {
+          "id": "D06",
+          "name": "ok"
+        },
+        {
+          "id": "D07",
+          "name": "content"
+        }
+      ]
     }
   ]
 }
-
